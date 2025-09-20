@@ -14,5 +14,4 @@ Built using NLP frameworks (e.g., Rasa, Dialogflow) with APIs for health data in
 
 
 usefull links
-https://huggingface.co/microsoft/BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext
 https://huggingface.co/datasets/hanaearg/medical_Data
