@@ -1,0 +1,17 @@
+# requirements.txt
+
+langchain
+langchain-community
+langchain-huggingface
+faiss-cpu
+sentence-transformers
+langdetect
+fastapi
+uvicorn[standard] 
+pydantic
+python-telegram-bot
+twilio
+pandas
+numpy
+streamlit
+python-dotenv
