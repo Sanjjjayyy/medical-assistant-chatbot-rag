@@ -3,7 +3,7 @@
 langchain
 langchain-community
 langchain-huggingface
-faiss-cpu
+faiss-cpu        # or faiss-gpu if you have a compatible GPU
 sentence-transformers
 langdetect
 fastapi
